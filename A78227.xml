@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of some of the adventurers and participants with the Right Honourable William Earl of Bedford in the draining of the great level of the fens stated in reference to a bill depending in Parliament for settlement of the said draining.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78227</idno>
+            <idno type="STC">Wing C1004A</idno>
+            <idno type="STC">ESTC R223283</idno>
+            <idno type="EEBO-CITATION">99900054</idno>
+            <idno type="PROQUEST">99900054</idno>
+            <idno type="VID">135591</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78227)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135591)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2509:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of some of the adventurers and participants with the Right Honourable William Earl of Bedford in the draining of the great level of the fens stated in reference to a bill depending in Parliament for settlement of the said draining.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drainage --  England --  Early works to 1800.</term>
+               <term>Fens, The (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:135591:1"/>
+            <pb n="1" facs="tcp:135591:1"/>
+            <head>THE CASE OF SOME OF THE <hi>ADVENT<g ref="char:V">Ʋ</g>RERS</hi> AND <hi>PARTICIPANTS</hi> With the Right Honourable <hi>William</hi> Earl of <hi>Bedford</hi> in the draining of the great Level of the Fens ſtated, in reference to a Bill de<g ref="char:EOLhyphen"/>pending in Parliament for ſettlement of the ſaid Draining.</head>
+            <p>BY a Law of <hi>Sewers</hi> made at <hi>Lynne, Anno Dom.</hi> 1630. and in the 6<hi rend="sup">th</hi> year of his late Majeſties Raign, The Right Honourable <hi>Francis</hi> late Earl of <hi>Bedford</hi> be<g ref="char:EOLhyphen"/>came undertaker for Draining the ſaid Great Le<g ref="char:EOLhyphen"/>vel within 6 years, and was to have 95000 Acres for his Recompence.</p>
+            <p>In the ſame Law the Commiſſioners therein named be<g ref="char:EOLhyphen"/>ſought his Majeſty to accept of 12000 Acres, (part of the 95000 Acres) to be conveyed from the ſaid <hi>Francis</hi> Earl of <hi>Bedford,</hi> and his Heirs.</p>
+            <pb n="2" facs="tcp:135591:2"/>
+            <p> The ſaid Earl took in ſeveral other perſons or Partici<g ref="char:EOLhyphen"/>pants and Adventurers with him in his underta<g ref="char:EOLhyphen"/>king,<note place="margin">Peterborough <hi>Law, 13.</hi> Jan. <hi>12.</hi> Car.</note> and together with them proſecuted the work; and in or about the year 1636. the Com<g ref="char:EOLhyphen"/>miſſioners of <hi>Sewers</hi> then ſitting at <hi>Peterborough</hi> adjudged the 95000 Acres unto the ſaid Earl and Participants.</p>
+            <p>That the ſaid <hi>Francis</hi> Earl of <hi>Bedford</hi> made tender to his Majeſty of a Deed purporting a conveyance thereof from the ſaid Earl to his Majeſty and Succeſſors; But his Maje<g ref="char:EOLhyphen"/>ſty was not pleaſed to accept thereof, ſo that there was ne<g ref="char:EOLhyphen"/>ver any Conveyance of it.</p>
+            <p>In the year 1638. a Commiſſion of <hi>Sewers</hi> ſate at <hi>Hunt<g ref="char:EOLhyphen"/>ingdon,</hi> and upon inquiry into the Earl of <hi>Bed<g ref="char:EOLhyphen"/>fords</hi> draining,<note place="margin">Law at <hi>Hunt<g ref="char:EOLhyphen"/>ingdon.</hi> 14. <hi>Car.</hi>
+               </note> the Commiſſioners did declare That the ſaid great Level was not perfectly drained, and that the Countrey ought to repoſſeſs their Lands, and ſet on foot a new draining, wherein the King was declared ſole undertaker, and the Commoners of each County, and owners of ſeverals, enter upon their Lands and poſſeſs themſelves as well of the 12000 Acres, as of the reſidue of the 95000 Acres.</p>
+            <p>The King begins the work as ſole undertaker; and <hi>An<g ref="char:EOLhyphen"/>no</hi> 1639. gives it over again. In the year 1641. the ſaid Earl and Participants apply to the then Parliament, and had their Caſe committed. In 1644. the Country then in poſ<g ref="char:EOLhyphen"/>ſeſſion of their Land petitioned for the Earl of <hi>Bedfords</hi> draining; and thereupon, and upon the proſecution of the ſaid Earl and Participants, a pretended Act is obtained in the year 1649. whereby the 95000 Acres were decreed to <hi>William</hi> Earl of <hi>Bedford,</hi> Son and Heir of the ſaid <hi>Francis,</hi> and Participants, as their recompence for draining the ſaid great Level, which they were to effect and bring to perfe<g ref="char:EOLhyphen"/>ction within 6. years, and enjoined them to make it winter ground and fit for Tillage; whereas by the firſt underta<g ref="char:EOLhyphen"/>king
+<pb n="3" facs="tcp:135591:2"/>they were onely obliged to make it Summer ground and fit for paſture.</p>
+            <p>For raiſing money to begin the work, They propound<g ref="char:EOLhyphen"/>ed to diſpoſe of ſeveral parcels of the 95000 Acres, and amongſt the reſt 10000 Acres of the ſaid 12000 Acres, and did afterwards contract with the preſent owners thereof for the ſame at 40 s. an Acre. The money amounting in the whole to 20000 l. was paid into the Treaſurer of the Com<g ref="char:EOLhyphen"/>pany of Adventurers within four Moneths after the Con<g ref="char:EOLhyphen"/>tract, and all laid out and expended that Summer, as was agreed upon the firſt Contract, in making Banks, Rivers, Sluces, and other works for draining of the ſaid great Level. The other Adventurers raiſing upon the reſidue of the 95000. Acres no more then 2 s. 6 d. an Acre for that time.</p>
+            <p>That this ſum of money thus advanced gave the firſt life to this work, and was (as the ſaid Adventurers then ac<g ref="char:EOLhyphen"/>knowledged) the foundation of their credit, whereby they raiſed further ſums of money for the future carrying on the ſaid undertaking.</p>
+            <p>That over and above the ſaid 40 s. an Acre, the preſent Owners have ſince that paid in Taxes and Seſſes laid upon the ſaid 10000 Acres, for draining and preſerving the ſaid Level, near 10000 l. more, and further disburſed many great ſums of money, in haſſaking, ditching, planting, building upon, and other ways improving the ſaid Lands.</p>
+            <p>That by the Contract aforeſaid the preſent Owners of the ſaid 10000 Acres became Adventurers and Participants with the ſaid Earl, to all intents and purpoſes, equally with any others, who were before intereſſed in the ſaid underta<g ref="char:EOLhyphen"/>king, and were as one Company and Common Body to mannage the whole, and to participate each with other in gain and loſs, according to their ſeveral reſpective Inte<g ref="char:EOLhyphen"/>reſts and proportions.</p>
+            <pb n="4" facs="tcp:135591:3"/>
+            <p> That a very conſiderable quantity of the 10000. Acres is forfeited to his Majeſty by the attainder of ſome of the perſons intereſſed therein.</p>
+            <p>That the ſaid Adventurers have prepared a Bill to be ten<g ref="char:EOLhyphen"/>dred to the Parliament for ſetling the ſaid work of draining, by the purport whereof the 10000 Acres is to be diſpoſed from the preſent Owners thereof, as that which is thought neceſſary to be done for the good of the whole work.</p>
+            <p>That in the ſaid Bill no proviſion being made for ſatisfy<g ref="char:EOLhyphen"/>ing thoſe Adventurers and Participants who are intereſſed in the ſaid 10000 Acres, for the great ſums of money they have expended as aforeſaid, in and upon the works of draining; they repreſented the Juſtice and Equity of their Caſe upon the grounds aforeſaid to their Fellow Partici<g ref="char:EOLhyphen"/>pants and Owners of the Reſidue of the 95000 Acres at the general Meetings of the Company; and not being wil<g ref="char:EOLhyphen"/>ling to interrupt the paſſing of the Bill, in reference to the whole work, or to the diſpoſing of the 10000 Acres in ſuch manner as was propounded therein; they demanded only the re-imburſement of the 40 s. an Acre, with ſuch other ſums of money as have been ſince aſſeſſed upon the 10000 Acres, and paid by the ſaid Owners for draining and con<g ref="char:EOLhyphen"/>ſerving the ſaid great Level; and hoped that their ſaid Fel<g ref="char:EOLhyphen"/>low-Adventurers and Participants would have complyed herewith as a moſt moderate propoſition, and below that which might have been inſiſted upon, conſidering the miſ<g ref="char:EOLhyphen"/>carriage of all former undertakings, and in that and other reſpects the vaſt hazard they ran in the disburſing ſo great a ſum of money in the infancy of the work, with the great benefit and advantage the whole Company reaped thereby.</p>
+            <p>But the ſaid other Adventurers though they do and muſt confeſs the receipt of the aforeſaid ſums of money, and the expending thereof upon thoſe works, whereby the whole Level is drained and defended, and in reſpect where<g ref="char:EOLhyphen"/>of
+<pb n="5" facs="tcp:135591:3"/>they expect and demand their recompence, and the equi<g ref="char:EOLhyphen"/>tableneſs of this Caſe in the other points before mentioned, do notwithſtanding endeavour to put this burden, that ought to lye upon the whole Company, upon ſome particu<g ref="char:EOLhyphen"/>lar Members thereof.</p>
+            <p>The ſaid owners therefore are neceſſitated to apply them<g ref="char:EOLhyphen"/>ſelves to the Honourable Houſe of Commons, and to ap<g ref="char:EOLhyphen"/>peal to their Juſtice, humbly Praying, That before the paſ<g ref="char:EOLhyphen"/>ſing of the ſaid Bill, to take this their Caſe into Conſidera<g ref="char:EOLhyphen"/>tion; wherein they humbly conceive theſe things are moſt manifeſt.</p>
+            <p n="1">1. That the Earl and other Participants have no better nor other Title, or pretence of Title in Law, to the Reſidue of the 95000. Acres, then they had to the 10000. Acres.</p>
+            <p n="2">2. And as to the Equitable Title upon the account of the money extended by them in and about the works of drain<g ref="char:EOLhyphen"/>ing; the ſaid other Participants Owners of the ſaid 10000 Acres, have therein the ſame Equity with them, or rather greater, at leaſt in reſpect of their hazard, having advanced 40 s. an Acre at the firſt Entrance upon the works, when the other Adventurers disburſed but 2 s. 6 d. an Acre for their proportions.</p>
+            <p n="3">3. That all the ſaid Adventurers, as well the Owners of the 10000 Acres, as the ſaid Earl and other Participants, ſtanding thus upon the ſame Bottom, both in Law and E<g ref="char:EOLhyphen"/>quity, The Parliament who is now applyed to for the ſet<g ref="char:EOLhyphen"/>tlement of the whole, in Caſe they ſhall judge it fit to ſettle 10000 Acres in the manner propounded in the Bill, may ſet<g ref="char:EOLhyphen"/>tle any other 10000 Acres in the poſſeſſion of any other of the Adventurers as well as this now in queſtion, There be<g ref="char:EOLhyphen"/>ing nothing in Law or Equity, nor indeed in Intereſt, why the one ſhould not be done as well as the other; And in caſe the Parliament ſhould be of opinion to do ſo, or to take part of this land, and part of the other 85000 Acres,
+<pb n="6" facs="tcp:135591:4"/>to make up the 10000 Acres, thoſe Gentlemen from whom any proportions of Land ſhould be taken, would think them<g ref="char:EOLhyphen"/>ſelves hardly dealt with (as they might) in caſe this loſs ſhould be wholly left upon their particulars, and not put up<g ref="char:EOLhyphen"/>on the whole Company; There is the ſame reaſon, and therefore Juſtice, in caſe the Parliament ſhall think fit, that this individual 10000 be taken, that the burthen thereof be laid upon the whole Company.</p>
+            <p n="4">4. That the King having the Intereſt of the perſons at<g ref="char:EOLhyphen"/>tainted, who were owners of a conſiderable quantity of the 10000 Acres, if this money be not reimburſed, His Majeſty will loſe a very conſiderable ſum of money, which was disburſed upon the works of draining, by thoſe perſons, in reference to their proportions in the 10000 Acres, the bene<g ref="char:EOLhyphen"/>fit whereof ought to accrue to His Majeſty, and not to the Adventurers.</p>
+            <p>That therefore which is humbly prayed upon this Caſe is, <hi>That if the ſaid</hi> 10000 <hi>Acres, or any part of it be ſetled from the preſent owners, That effectual proviſion may be made in the ſame Act, for their being reimburſed the money paid and expended by them, as is before expreſsed.</hi>
+            </p>
+            <div type="part">
+               <pb n="7" facs="tcp:135591:4"/>
+               <head>Theſe are the names of the Perſons who conveyed the 10000. Acres to the preſent Owners, and were the cheif perſons who procured the pretended Act in 1649, and managed the Works of Draining.</head>
+               <list>
+                  <item>
+                     <hi>William</hi> Earl of <hi>Bedford.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Ruſsel,</hi> Eſq;</item>
+                  <item>
+                     <hi>Richard</hi> Lord <hi>Gorges.</hi>
+                  </item>
+                  <item>Sir <hi>Miles Sandys.</hi>
+                  </item>
+                  <item>Sir <hi>Edward Partridge.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Thynn</hi> Eſq;</item>
+                  <item>
+                     <hi>Robert Henley</hi> Eſq;</item>
+                  <item>
+                     <hi>Iſaack Jones</hi> Eſq;</item>
+                  <item>
+                     <hi>John Latch</hi> Eſq;</item>
+                  <item>
+                     <hi>John Fountain,</hi> Serj. at Law.</item>
+                  <item>
+                     <hi>William Crane</hi> Eſq;</item>
+                  <item>Sir <hi>John Marſham.</hi>
+                  </item>
+                  <item>
+                     <hi>Anthony Hamond</hi> Eſq;</item>
+                  <item>
+                     <hi>Robert Caſtle</hi> Eſq;</item>
+                  <item>
+                     <hi>John Carryl</hi> Eſq;</item>
+                  <item>
+                     <hi>Robert Wigſtead.</hi>
+                  </item>
+                  <item>
+                     <hi>William Dodſon,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Brown.</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
